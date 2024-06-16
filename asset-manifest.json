@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.391b5adc.css",
+    "main.js": "/portfolio/static/js/main.48b23f15.js",
+    "static/js/453.6e152897.chunk.js": "/portfolio/static/js/453.6e152897.chunk.js",
+    "static/media/project-p3.jpg": "/portfolio/static/media/project-p3.cf428460d580ff437dbc.jpg",
+    "static/media/header.jpg": "/portfolio/static/media/header.0b974787cfc710aeed2f.jpg",
+    "static/media/project-p4.jpg": "/portfolio/static/media/project-p4.755c1a336a93a1cdcc2d.jpg",
+    "static/media/project-p2.jpg": "/portfolio/static/media/project-p2.46bb6b0b34d024898fe7.jpg",
+    "static/media/themify.svg?-fvbane": "/portfolio/static/media/themify.c4292f34297f1004471a.svg",
+    "static/media/web-1.jpg": "/portfolio/static/media/web-1.ede5caf3487cdfc88602.jpg",
+    "static/media/project-p1.jpg": "/portfolio/static/media/project-p1.685223b7e1419a694418.jpg",
+    "static/media/web-2.jpg": "/portfolio/static/media/web-2.fc12d2a2e92ebf7a5438.jpg",
+    "static/media/themify.eot": "/portfolio/static/media/themify.9bad94440d49256265a5.eot",
+    "static/media/themify.ttf?-fvbane": "/portfolio/static/media/themify.eda8b94308c6f538f04a.ttf",
+    "static/media/branding-3.jpg": "/portfolio/static/media/branding-3.0ddffac234f45558bd8e.jpg",
+    "static/media/web-3.jpg": "/portfolio/static/media/web-3.4e0cadc7f556605e273e.jpg",
+    "static/media/branding-1.jpg": "/portfolio/static/media/branding-1.4576e941ef9638b7d2fc.jpg",
+    "static/media/themify.woff?-fvbane": "/portfolio/static/media/themify.29b39089170885ae2967.woff",
+    "static/media/blog3.jpg": "/portfolio/static/media/blog3.fb75abe26132254070ff.jpg",
+    "static/media/advertising-4.jpg": "/portfolio/static/media/advertising-4.1bbd90492b6a8a3169fd.jpg",
+    "static/media/web-4.jpg": "/portfolio/static/media/web-4.1cf66d1196a62e0d34a7.jpg",
+    "static/media/branding-2.jpg": "/portfolio/static/media/branding-2.85bc1b53c1e50ed9ee82.jpg",
+    "static/media/branding-4.jpg": "/portfolio/static/media/branding-4.7818b1f99253c677318b.jpg",
+    "static/media/branding-5.jpg": "/portfolio/static/media/branding-5.1af02849b8f41f1f36d8.jpg",
+    "static/media/blog2.jpg": "/portfolio/static/media/blog2.91220ee33f546f7565d6.jpg",
+    "static/media/advertising-3.jpg": "/portfolio/static/media/advertising-3.19553c69d666fe7a3b90.jpg",
+    "static/media/advertising-2.jpg": "/portfolio/static/media/advertising-2.d8a43efebfd1979ca19a.jpg",
+    "static/media/blog1.jpg": "/portfolio/static/media/blog1.1bb20ed35a91406ed462.jpg",
+    "static/media/advertising-1.jpg": "/portfolio/static/media/advertising-1.7e705706049068da454e.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.391b5adc.css.map": "/portfolio/static/css/main.391b5adc.css.map",
+    "main.48b23f15.js.map": "/portfolio/static/js/main.48b23f15.js.map",
+    "453.6e152897.chunk.js.map": "/portfolio/static/js/453.6e152897.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391b5adc.css",
+    "static/js/main.48b23f15.js"
+  ]
+}
